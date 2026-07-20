@@ -17,5 +17,8 @@ env/
 *.wav
 temiz_isimler.txt
 
+# Scripts
+train_hf_tokenizer.py
+
 # Editor and assistant metadata
 .DS_Store
